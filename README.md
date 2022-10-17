@@ -1,9 +1,9 @@
-# SIMAM_REST - sitemangement messenger
+# SIMAM_REST - site management messenger
 A test project to investigate following stack:
 * REST Api backend with starlite
 * Database integration via sqlalchemy
 * Simple client based on commandline interface
-* Text userinterface based on asciimatics
+* Text user interface based on asciimatics
 * In progress Flutter Client for Android etc.
 
 
